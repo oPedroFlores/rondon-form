@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Fazer compras",
+      "description": "Comprar leite, pão e ovos",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Estudar React",
+      "description": "Ler documentação e fazer alguns exemplos",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Fazer exercícios",
+      "description": "Ir à academia e fazer uma caminhada",
+      "completed": false
+    }
+  ]
+  
