@@ -10,6 +10,8 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "@vercel/postgres": "^0.8.0",
+    "concurrently": "^8.2.2",
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "framer-motion": "^11.0.8",
@@ -47,8 +49,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "concurrently": "^8.2.2"
   }
 }

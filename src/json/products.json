@@ -1,21 +1,33 @@
 [
-    {
-      "id": 1,
-      "title": "Fazer compras",
-      "description": "Comprar leite, pão e ovos",
-      "completed": false
-    },
-    {
-      "id": 2,
-      "title": "Estudar React",
-      "description": "Ler documentação e fazer alguns exemplos",
-      "completed": true
-    },
-    {
-      "id": 3,
-      "title": "Fazer exercícios",
-      "description": "Ir à academia e fazer uma caminhada",
-      "completed": false
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Dell Latitude 3400",
+    "type": "Notebook",
+    "brand": "Dell",
+    "Model": "Latitude 3400",
+    "processor": "Intel Core i5",
+    "ram": "8 GB",
+    "svga": "",
+    "hdmi": "Um",
+    "saidas-video": "Um",
+    "usb": "3 USB-A",
+    "pcmcia": "",
+    "storage": "SSD 256GB",
+    "monitor": "14 Polegadas",
+    "wireless": "1",
+    "ethernet": "1",
+    "cd-rom": "0",
+    "keyboard": "1",
+    "charger": "1",
+    "mouse": "1",
+    "webcam": "1",
+    "audio": "1",
+    "battery": "1",
+    "turn-on-off": "1",
+    "status": "Novo",
+    "windows": "W11",
+    "office": "H&B 2021",
+    "NF": "",
+    "teste": "teste"
+  }
+]

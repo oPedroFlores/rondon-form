@@ -19,9 +19,13 @@ a {
 
 :root {
   --lightGray: #AAAA91;
-  --mediumGray: ##848478;
+  --mediumGray: #848478;
   --darkGray: #5E5E5E;
   --lightDark: #383845;
   --dark: #12122B;
 }
 
+/* Products */
+.productsTableSection{
+  padding: 20px;
+}
